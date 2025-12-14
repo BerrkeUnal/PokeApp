@@ -2,6 +2,9 @@
 
 This project is a modern desktop application developed using **Python** and **Tkinter**, powered by **PokeAPI**. It allows users to search for Pokémon, view detailed statistics via dynamic graphs, explore evolution chains, and manage a personal favorites list.
 
+## Screenshot
+| ![Poke App](screenshot/PokeApp.PNG) |
+
 ## 🚀 Features
 
 * **🔍 Smart Search:** Fast search functionality with an **Autocomplete** feature to find Pokémon by name.
@@ -34,7 +37,7 @@ Download the project files (`main.py` and `pokemon_ui.py`) to a folder.
 ### 2. Install Required Libraries
 Open your Terminal or Command Prompt (CMD) and run the following command to install the necessary packages:
 
-```bash
+bash:
 pip install requests Pillow matplotlib
 
 ▶️ Usage
